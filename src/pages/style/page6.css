@@ -1,0 +1,10 @@
+.resources-card{
+    border: 0;
+    box-shadow: rgb(0 0 0 / 8%) 0px 4px 15px;
+    cursor: pointer;
+}
+
+.resources-card:hover{
+    box-shadow: rgb(0 0 0 / 15%) 0px 6px 25px;
+    transition: all 0.1s ease 0s;
+}

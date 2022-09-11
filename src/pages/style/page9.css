@@ -1,0 +1,30 @@
+.page-background{
+    height: 100px ;
+    background-color: rgb(32, 129, 226);
+}
+
+.brands-line{
+    height: 100px;
+    max-width: 1280px;
+    
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    -webkit-box-align: center;
+    align-items: center !important;
+    flex-wrap: wrap;
+}
+
+.brand-container{
+    width: 126px;
+    height: 25px;
+    margin: 10px;
+    fill: rgba(251, 253, 255, 0.75);
+    cursor: pointer;
+}
+
+.brand-container:hover{
+    fill: rgb(251, 253, 255);
+
+}
+

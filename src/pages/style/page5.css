@@ -1,0 +1,12 @@
+.col-flex-align-center{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+}
+
+.size{
+    width: 16%;
+    height: 16%;
+}
+

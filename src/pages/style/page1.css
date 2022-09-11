@@ -1,0 +1,132 @@
+.first-page{
+    margin-top: 70px;
+}
+
+.background{
+    background-image: url(https://storage.googleapis.com/opensea-prod.appspot.com/files/CloneX_Feature_550x367_opensea_homepage_UNFORGED_20220831.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    opacity: 0.3;
+    filter: blur(8px);
+    width: 100%;
+    height: 580px;
+    z-index: -1;
+    mask: linear-gradient(rgb(255, 255, 255), transparent);
+}
+
+
+.title{
+    margin-top: 7rem;
+    margin-bottom: 1rem;
+    font-weight: 600 ;
+    font-size: 2.8rem;
+}
+
+.description{
+    font-size: 1.5rem;
+    max-width: 400px;
+    margin-bottom: 2rem;
+}
+
+.explore-btn{
+    font-weight: 600;
+    font-size: 1rem;
+    height: 3.8rem;
+    width: 11rem;
+    margin-right: 1.2rem;
+    border-radius: 10px;
+    background-color: rgb(32, 129, 226);
+    border: 2px solid rgb(32, 129, 226);
+}
+
+
+.white-btn{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(229, 232, 235);
+    color: rgb(32, 129, 226);
+    font-weight: 600;
+    font-size: 1rem;
+    height: 3.8rem;
+    width: 11rem;
+    margin-right: 1.2rem;
+    border-radius: 10px;
+}
+
+.about{
+    margin-top: 2rem;
+}
+
+.about-icon{
+    color: rgb(32, 129, 226);
+    padding-top: 0.2rem;
+    width: fit-content;
+}
+
+.about-link{
+    color: rgb(32, 129, 226);
+    width: fit-content;
+    font-weight: 600;
+    font-size: 0.9rem;
+    padding: 0;
+}
+
+._card{
+    margin-top: 5rem;   
+    margin-right: 1rem;
+    max-width: 480px; 
+    padding: 0;
+}
+
+.discover-card{
+    box-shadow: rgb(4 17 29 / 25%) 0px 0px 10px 0px; 
+    border-radius: 10px;
+    padding: 0;
+    border: 0;
+}
+
+.card-image{
+    border-radius: 0.5rem 0.5rem  0 0;
+    height: 100%;
+    object-fit: cover;
+
+}
+
+.card-text-container{
+    padding: 1rem;
+}
+
+.profil-container{
+    overflow: hidden;
+    border: 1px solid rgb(229, 232, 235);
+    border-radius: 50%;
+    padding: 0;
+    margin-left: 0.6rem;
+}
+
+.card-profil-pic{
+    width: 40px;
+    height: 40px;
+}
+
+.card-title{
+    width: fit-content;
+    font-weight: 600;
+    font-size: 14px; 
+    margin: 0;
+}
+
+.card-link{
+    width: fit-content;
+    color: #007aff;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.card-icon{
+    font-size: 1.1rem;
+    padding-top: 0.9rem;
+    margin-left: 1.8rem;
+}
+

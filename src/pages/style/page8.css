@@ -1,0 +1,40 @@
+.eighth-page {
+  width: 100%;
+  background-color: rgb(243, 251, 254);
+}
+
+.eighth-page-container {
+  padding-right: 7.5rem;
+  margin-left: 7.5rem;
+}
+
+.w-background {
+  background: url(https://static.opensea.io/gas-free/video-background.svg)
+    center center / contain no-repeat;
+  padding: 40px 100px 80px;
+}
+
+.video-container {
+  height: 0px;
+  padding-bottom: 56.25%;
+  position: relative;
+}
+
+.opensea-video {
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+._marketplace-btn{
+  font-weight: 600;
+  font-size: 16px;
+  height: 3.6rem;
+  width: 16rem;
+  margin-bottom: 80px;
+  border-radius: 10px;
+  background-color: rgb(32, 129, 226);
+  border: 2px solid rgb(32, 129, 226);
+}

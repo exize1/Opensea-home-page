@@ -6,8 +6,7 @@ Opensea is the biggest online marketplace for NFTs. The company started its jour
 - [Opensea (Home page)](#opensea-(home-page))
   - [Why Opensea?](#why-opensea)
   - [Running the project](#running-the-project)
-  - [Screenshots](#screenshots)
-    + [Home page](#home-page)
+  - [Screenshot](#screenshot)
   - [Technologies](#technologies)
     - [Tools and libraries:](#tools-and-libraries)
 
@@ -28,7 +27,7 @@ I was amaized by the idea of being able to build this application by myself, and
 3. Run 'npm start'
 4. Navigate to `http://localhost:3000`.
 
-## Screenshots
+## Screenshot
 
 ### Home page
 

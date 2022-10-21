@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+# [Opensea (Home page)](https://myopensea.netlify.app/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Opensea is the biggest online marketplace for NFTs. The company started its journey in 2017, back in the days when NFT wasn't something you hear a lot, if not at all. But in 2021, following a heightened interest in, the company's revenue reached $2.75 billion till September. By January 2022, the company had been valued at $13.3 billion and has been considered the largest NFT marketplace. The daily trading volume on the OpenSea marketplace reached a record $2.7 billion on May 1, 2022, but four months later had dropped by 99%.
 
-## Available Scripts
+## Table of contents 
+- [Opensea (Home page)](#opensea-(home-page))
+  - [Why Opensea?](#why-opensea)
+  - [Running the project](#running-the-project)
+  - [Screenshots](#screenshots)
+    + [Create user / Login](#create-user-and-login)
+    + [Home page](#home-page)
+    + [Auction](#auction-page)
+    + [Add Product](#add-product)
+    + [User Page](#user-page)
 
-In the project directory, you can run:
+  - [Technologies](#technologies)
+    + [Client-Side](#client-side)
+    + [Server-Side](#server-side)
+  - [Tools and libraries:](#tools-and-libraries)
+    + [Client-Side](#client-side)
+    + [Server-Side](#server-side)
+  - [Whats Next](#whats-next)
+  
+## Why Opensea
 
-### `npm start`
+I think there is two main things that made me build their home page: 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Before the Fullstack course I'm taking right now, I was really into NFTs, I was trading, investing and even taking part in building a real NFT collection (which includs building community, roadmap, art and much more, but we'll keep it for another time), so I spent a lot of time on Opensea. It was clear to me the moment I learned in the course about "Bootstap" - Opensea were built with Bootstrap! 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+I was amaized by the idea of being able to build this application by myself, and with a framwork that make the UI designe so simple. So I decided to practice my UI skills with bootstrap, and build the Opensea home page outside of the course
 
-### `npm test`
+## Running the project
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone the repo.
+2. Run `npm install`
+3. Run 'npm start'
+4. Navigate to `http://localhost:3000`.
 
-### `npm run build`
+## Screenshots
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Create user and Login
+Sign-up page with Yup validation in the front and Jui validation at the back
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<p align="center"><img src="https://res.cloudinary.com/diggwedxe/image/upload/v1666188770/Screenshots/singup_jjwan6.jpg" /></p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<p align="center"><img src="https://res.cloudinary.com/diggwedxe/image/upload/v1666188307/Screenshots/login_nylwtz.jpg" /></p>
 
-### `npm run eject`
+### Home page
+Welcome page with some useful information about the auctions. In the picture - The three most profitable products on auction.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<p align="center"><img src="https://res.cloudinary.com/diggwedxe/image/upload/v1666357806/Screenshots/opensea_s1sjfo.jpg"/></p>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Technologies:
+* React.JS
 
-### Code Splitting
+### Tools and libraries:
+  * bootstrap
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

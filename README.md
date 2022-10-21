@@ -17,7 +17,7 @@ Opensea is the biggest online marketplace for NFTs. The company started its jour
 
 I think there is two main things that made me build their home page: 
 
-Before the Fullstack course I'm taking right now, I was really into NFTs, I was trading, investing and even taking part in building a real NFT collection (which includs building community, roadmap, art and much more, but we'll keep it for another time), so I spent a lot of time on Opensea. It was clear to me the moment I learned in the course about "Bootstap" - Opensea were built with Bootstrap! 
+Before the Fullstack course I'm taking right now, I was really into NFTs, I was trading, investing and even taking part in building a real NFT collection (which includs building community, roadmap, art and much more, but we'll keep it for another time), so I spent a lot of time on Opensea. It was clear to me the moment I was taught in the course about "Bootstap" - Opensea were built with Bootstrap! 
 
 I was amaized by the idea of being able to build this application by myself, and with a framwork that make the UI designe so simple. So I decided to practice my UI skills with bootstrap, and build the Opensea home page outside of the course
 

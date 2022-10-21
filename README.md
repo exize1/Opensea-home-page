@@ -8,17 +8,9 @@ Opensea is the biggest online marketplace for NFTs. The company started its jour
   - [Running the project](#running-the-project)
   - [Screenshots](#screenshots)
     + [Create user / Login](#create-user-and-login)
-    + [Home page](#home-page)
-    + [Auction](#auction-page)
-    + [Add Product](#add-product)
-    + [User Page](#user-page)
-
   - [Technologies](#technologies)
-    + [Client-Side](#client-side)
-    + [Server-Side](#server-side)
-  - [Tools and libraries:](#tools-and-libraries)
-    + [Client-Side](#client-side)
-    + [Server-Side](#server-side)
+    - [Tools and libraries:](#tools-and-libraries)
+
   - [Whats Next](#whats-next)
   
 ## Why Opensea
@@ -38,21 +30,9 @@ I was amaized by the idea of being able to build this application by myself, and
 
 ## Screenshots
 
-### Create user and Login
-Sign-up page with Yup validation in the front and Jui validation at the back
-
-<p align="center"><img src="https://res.cloudinary.com/diggwedxe/image/upload/v1666188770/Screenshots/singup_jjwan6.jpg" /></p>
-
-<p align="center"><img src="https://res.cloudinary.com/diggwedxe/image/upload/v1666188307/Screenshots/login_nylwtz.jpg" /></p>
-
 ### Home page
-Welcome page with some useful information about the auctions. In the picture - The three most profitable products on auction.
 
 <p align="center"><img src="https://res.cloudinary.com/diggwedxe/image/upload/v1666357806/Screenshots/opensea_s1sjfo.jpg"/></p>
-
-
-
-
 
 
 ## Technologies:

@@ -7,7 +7,7 @@ Opensea is the biggest online marketplace for NFTs. The company started its jour
   - [Why Opensea?](#why-opensea)
   - [Running the project](#running-the-project)
   - [Screenshots](#screenshots)
-    + [Create user / Login](#create-user-and-login)
+    + [Home page](#home-page)
   - [Technologies](#technologies)
     - [Tools and libraries:](#tools-and-libraries)
 
